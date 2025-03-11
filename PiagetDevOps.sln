@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPiaget", "ApiPiaget\ApiPiaget.csproj", "{4CBECA0B-E9A9-4B67-9E60-487BC629E388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CBECA0B-E9A9-4B67-9E60-487BC629E388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBECA0B-E9A9-4B67-9E60-487BC629E388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBECA0B-E9A9-4B67-9E60-487BC629E388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBECA0B-E9A9-4B67-9E60-487BC629E388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC682CB2-51B9-42FE-AC97-F0D16576DF85}
+	EndGlobalSection
+EndGlobal
